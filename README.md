@@ -4,12 +4,11 @@ Se ha utilizado para la realización de la práctica jupyter-notebook/google coo
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-En la carpeta Práctica se puede observar un proyecto realizado por parejas, en el cual, despues de preprocesar y visualizar los datos,
-se intenta predecir la productividad de una empresa entrenando diferentes modelos i buscando el que mejor lo pueda realizar.
+En la carpeta Práctica se puede observar un proyecto realizado por parejas, en el cual, después de preprocesar y visualizar los datos, se intenta predecir la productividad de una empresa entrenando diferentes modelos y buscando el que mejor lo pueda realizar.
 
-Archivos:
+Archivos:  
 - APAPractica.pdf: Enunciado de la práctica
 - garments_worker_productivity.csv: datos utilizados para el desarrollo de la práctica.
-- Proyecto: Proyecto realizado siguiendo lo que se pedia en el enunciado
+- Proyecto: Proyecto realizado siguiendo lo que sé pedía en el enunciado
 - ProyectoCurso_MunozArroyo_SanchezEstape.ipynb: Código fuente de la realización del preprocesado, entrenamiento de modelos y
   resultados realizados utilizando jupyter-notebook/google coolab y Python.
